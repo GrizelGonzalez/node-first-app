@@ -1,0 +1,2 @@
+Como ejecutar
+a traves de crear un comando en el archivo package.json o usar el comando "node" y la ruta del archivo
